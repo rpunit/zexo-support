@@ -16,12 +16,6 @@ We usually reply within 48 hours.
 No. Everything — expenses, paychecks, budgets — is stored locally on your
 device (AsyncStorage). There are no accounts, no servers, and no analytics.
 
-**How does paycheck redaction work?**
-When you paste pay-stub text, Zexo scans it on-device and redacts SSNs,
-account/routing numbers, emails, phone numbers, dates of birth, addresses and
-names. Only the redacted copy is stored; the original text is discarded
-immediately.
-
 **What is the 401(k)/IRA field?**
 Your monthly retirement contribution. Zexo treats it as locked-away money:
 it is subtracted from your spendable budget and shown separately in your plan.

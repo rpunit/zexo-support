@@ -13,13 +13,6 @@ goals, streaks — is stored **locally on your device only**, using the
 operating system's standard app storage. There are no Zexo servers, no
 accounts, and no sign-in.
 
-## Paycheck text and PII
-
-If you paste pay-stub text, it is scanned **on-device** to detect and redact
-personal information (SSNs, account and routing numbers, emails, phone
-numbers, dates of birth, addresses, names). Only the redacted copy is kept.
-The original text is held in memory during the scan and discarded immediately.
-
 ## What Zexo does not do
 
 - No analytics or tracking
