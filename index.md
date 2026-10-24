@@ -6,7 +6,7 @@ Thanks for using **Zexo**! 🪙
 
 Questions, bugs, or feature ideas? Email us:
 
-**punit.rathore1@gmail.com**
+**pntr13@gmail.com**
 
 We usually reply within 48 hours.
 
